@@ -21,7 +21,7 @@ description: 망겜 Sdorica에 대한 이야기를 모아놓는 곳입니다.
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-Resources:
+  Resources:
     - Sdorica official site: "https://www.sdorica.com/ko/" 
     - Sdorica Wiki (Fandom): "https://sdorica.fandom.com/wiki/Sdorica_Wiki"
     - Sdorica 萬象物語 Wiki: "https://sdorica.xyz/index.php"
