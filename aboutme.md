@@ -20,7 +20,7 @@ subtitle: 이 관찰자는 누구인가?
 #### 현재
 
 * Sdorica (주력)
-* Walkr
+* Hades
 * Lanota
 
 #### 과거
@@ -30,6 +30,7 @@ subtitle: 이 관찰자는 누구인가?
 * Dynamix
 * Implosion
 * Infinitode 2
+* Walkr
 * 펭귄의 섬
 
 ##### PC
