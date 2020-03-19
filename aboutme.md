@@ -20,6 +20,7 @@ subtitle: 이 관찰자는 누구인가?
 #### 현재
 
 * Sdorica (주력)
+* BanG Dream! Girls Band Party
 * Hades
 * Lanota
 
